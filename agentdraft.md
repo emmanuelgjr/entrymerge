@@ -2,7 +2,7 @@
 
 **Author(s):**
 
-John Sotiropoulos, Emmanuel Guilherme Junior
+John Sotiropoulos
 
 **Contributor(s):**
 
